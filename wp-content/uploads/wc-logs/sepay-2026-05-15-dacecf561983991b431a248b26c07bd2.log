@@ -1,0 +1,8 @@
+2026-05-15T16:02:34+00:00 ERROR Rate limited by SePay API CONTEXT: {"context":{"retry_after":60,"rate_limit_until":"2026-05-15 16:03:32","site":"http://localhost/Phan_mem_mo"}}
+2026-05-15T17:08:23+00:00 ERROR Invalid refresh token response CONTEXT: {"context":{"response":{"error":"22 : The requested URL returned error: 401 Unauthorized"},"http_code":200,"site":"http://localhost/Phan_mem_mo"}}
+2026-05-15T17:09:08+00:00 ERROR Invalid refresh token response CONTEXT: {"context":{"response":{"error":"22 : The requested URL returned error: 401 Unauthorized"},"http_code":200,"site":"http://localhost/Phan_mem_mo"}}
+2026-05-15T17:17:01+00:00 ERROR Invalid refresh token response CONTEXT: {"context":{"response":{"error":"22 : The requested URL returned error: 401 Unauthorized"},"http_code":200,"site":"http://localhost/Phan_mem_mo"}}
+2026-05-15T17:18:26+00:00 ERROR Invalid refresh token response CONTEXT: {"context":{"response":{"error":"22 : The requested URL returned error: 401 Unauthorized"},"http_code":200,"site":"http://localhost/Phan_mem_mo"}}
+2026-05-15T17:18:36+00:00 ERROR Rate limited by SePay API CONTEXT: {"context":{"retry_after":60,"rate_limit_until":"2026-05-15 17:19:36","site":"http://localhost/Phan_mem_mo"}}
+2026-05-15T17:19:54+00:00 ERROR Invalid refresh token response CONTEXT: {"context":{"response":{"error":"22 : The requested URL returned error: 401 Unauthorized"},"http_code":200,"site":"http://localhost/Phan_mem_mo"}}
+2026-05-15T17:19:56+00:00 ERROR Rate limited by SePay API CONTEXT: {"context":{"retry_after":60,"rate_limit_until":"2026-05-15 17:20:56","site":"http://localhost/Phan_mem_mo"}}
