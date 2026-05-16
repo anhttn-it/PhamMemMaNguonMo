@@ -98,13 +98,13 @@ http://localhost/Phan_mem_mo
 ![Trang chủ](images/home.jpg)
 
 ### Danh sách khóa học
-![Danh sách khóa học](images/courseslist.jpg)
+![Danh sách khóa học](images/coureseslist.jpg)
 
 ### Dashboard Instructor
 ![Dashboard Instructor](images/dashboard.jpg)
 
 ### Dashboard Student
-![Dashboard Student](images/dashboarsv.jpg)
+![Dashboard Student](images/dashboardsv.jpg)
 
 ### Cart & Thanh toán
 ![Cart](images/cart.jpg)
@@ -112,7 +112,7 @@ http://localhost/Phan_mem_mo
 ![Thanh toán](images/tt.jpg)
 
 ### AI Chatbot
-![AI Chatbot](images/chatbot.jpg)
+![AI Chatbot](images/ai.jpg)
 
 ---
 
