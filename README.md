@@ -95,24 +95,24 @@ http://localhost/Phan_mem_mo
 ## Hình ảnh minh họa hệ thống
 
 ### Trang chủ
-![Trang chủ](images/home.png)
+![Trang chủ](images/home.jpg)
 
 ### Danh sách khóa học
-![Danh sách khóa học](images/courseslist.png)
+![Danh sách khóa học](images/courseslist.jpg)
 
 ### Dashboard Instructor
-![Dashboard Instructor](images/dashboard.png)
+![Dashboard Instructor](images/dashboard.jpg)
 
 ### Dashboard Student
-![Dashboard Student](images/dashboarsv.png)
+![Dashboard Student](images/dashboarsv.jpg)
 
 ### Cart & Thanh toán
-![Cart](images/cart.png)
+![Cart](images/cart.jpg)
 
-![Thanh toán](images/tt.png)
+![Thanh toán](images/tt.jpg)
 
 ### AI Chatbot
-![AI Chatbot](images/chatbot.png)
+![AI Chatbot](images/chatbot.jpg)
 
 ---
 
