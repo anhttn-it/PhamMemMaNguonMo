@@ -1,7 +1,7 @@
-# PHAN_MEM_MO - Website Học Trực Tuyến
+# HỆ THỐNG E-LEARNING HỖ TRỢ HỌC TẬP TRỰC TUYẾN
 
 ## Giới thiệu hệ thống
-PHAN_MEM_MO là website học trực tuyến được xây dựng bằng WordPress kết hợp Tutor LMS và WooCommerce. Hệ thống hỗ trợ quản lý khóa học, Lesson, Quiz, đăng ký tài khoản Student và Instructor, giỏ hàng, thanh toán bằng VietQR và SePay, AI Chatbot WPBot cùng Learning Notification Bar hỗ trợ nhắc nhở học tập.
+Hệ thống E-Learning hỗ trợ học tập trực tuyến được xây dựng bằng WordPress kết hợp Tutor LMS và WooCommerce. Hệ thống hỗ trợ quản lý khóa học, học video bài giảng, Lesson, Quiz, đăng ký tài khoản Student và Instructor, giỏ hàng, thanh toán bằng VietQR và SePay, AI Chatbot WPBot, quản lý học viên và tiến độ học tập cùng Learning Notification Bar hỗ trợ nhắc nhở học tập.
 
 ---
 
@@ -12,48 +12,43 @@ PHAN_MEM_MO là website học trực tuyến được xây dựng bằng WordPre
 | Nguyễn Thị Thanh Thủy | 23810310205 |
 | Phí Thị Minh Thảo | 23810310159 |
 | Tạ Thị Ngọc Ánh | 23810310194 |
+| Nguyễn Văn Luận | 23810310279|
+
 
 ---
+# Phân công nhiệm vụ
 
-## Phân công nhiệm vụ
-
-| Thành viên | Nhiệm vụ |
-|---|---|
-| Nguyễn Thị Thanh Thủy | 
-NỀN TẢNG, KHẢO THÍ & GIAO DIỆN PHỤ TRỢ 
-• Khởi tạo Localhost, cơ sở dữ liệu và phân tích yêu cầu.
-• Xây dựng hệ thống bài thi trắc nghiệm (Quiz): Quản lý ngân hàng câu hỏi, chấm điểm tự động.
-• Tích hợp Chatbot AI hỗ trợ và xây dựng giao diện các trang phụ (Blog, Giảng viên).
-• Chịu trách nhiệm nội dung báo cáo Chương 2,3.
- |
-| Phí Thị Minh Thảo | 
-THƯƠNG MẠI ĐIỆN TỬ & LẬP TRÌNH PLUGIN 
-• Xây dựng chức năng Đăng ký/Đăng nhập và logic phân quyền thành viên.
-• Cấu hình luồng mua sắm, giỏ hàng và xử lý logic đơn hàng qua WooCommerce.
-• Xây dựng trang Hồ sơ cá nhân (Dashboard Profile) và cổng Hỏi - Đáp (Q&A) tương tác.
-• Trực tiếp lập trình và cấu hình Plugin tùy chỉnh thanh thông báo (Notification Bar).
-• Chịu trách nhiệm nội dung báo cáo Chương 3,4 và tổng hợp, căn chỉnh file Word.
- |
-| Tạ Thị Ngọc Ánh | 
-HỆ THỐNG CỐT LÕI & TÍCH HỢP NÂNG CAO 
-• Thiết kế cấu trúc hệ thống và giao diện cốt lõi (Trang chủ, MetForm).
-• Cấu hình API và cổng thanh toán tự động qua SePay (VietQR).
-• Xây dựng phân hệ khóa học nâng cao (Curriculum, bài giảng, video).
-• Chịu trách nhiệm chính nội dung báo cáo Chương 1,2.
- |
-
+| STT | Nội dung công việc chính | Người thực hiện | Tỷ lệ đóng góp |
+|---|---|---|---|
+| 1 | **HỆ THỐNG CỐT LÕI & TÍCH HỢP NÂNG CAO**  <br> - Thiết kế cấu trúc hệ thống và giao diện cốt lõi (Trang chủ, MetForm). <br> - Cấu hình API và cổng thanh toán tự động qua VietQR và tích hợp SePay. <br> - Xây dựng phân hệ khóa học nâng cao (Curriculum, bài giảng, video). <br> - Tùy chỉnh Elementor. <br> - Quản lý tiến độ nhóm. <br> - Tổng hợp báo cáo đồ án. <br> - Kiểm thử hệ thống. | **Tạ Thị Ngọc Ánh** | 25% |
+| 2 | **NỀN TẢNG, KHẢO THÍ & GIAO DIỆN PHỤ TRỢ** <br> - Khởi tạo Localhost, cơ sở dữ liệu và phân tích yêu cầu. <br> - Xây dựng hệ thống bài thi trắc nghiệm (Quiz): Quản lý ngân hàng câu hỏi, chấm điểm tự động. <br> - Tích hợp Chatbot AI hỗ trợ và xây dựng giao diện các trang phụ (Blog, Giảng viên). <br> - Chịu trách nhiệm nội dung báo cáo Chương 2, 3. | **Nguyễn Thị Thanh Thủy** | 25% |
+| 3 | **THƯƠNG MẠI ĐIỆN TỬ & LẬP TRÌNH PLUGIN** <br> - Xây dựng chức năng Đăng ký/Đăng nhập và logic phân quyền thành viên. <br> - Deploy website lên hosting. <br> - Trực tiếp lập trình và cấu hình Plugin tùy chỉnh thanh thông báo (Notification Bar). <br> - Chịu trách nhiệm nội dung báo cáo Chương 3, 4 và tổng hợp, căn chỉnh file Word. | **Phí Thị Minh Thảo** | 25% |
+| 4 | **HỆ THỐNG NGƯỜI DÙNG & XỬ LÝ ĐƠN HÀNG** <br> - Xây dựng trang Hồ sơ cá nhân (Dashboard Profile) và cổng Hỏi - Đáp (Q&A) tương tác. <br> - Cấu hình luồng mua sắm, giỏ hàng và xử lý logic đơn hàng qua WooCommerce. <br> - Chịu trách nhiệm chính nội dung báo cáo Chương 1, 2. | **Nguyễn Văn Luận** | 25% |
+| **Tổng cộng** |  |  | **100%** |
 ---
 
 ## Công nghệ sử dụng
-- WordPress
+## Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Elementor
+
+## Backend
 - PHP
+- WordPress
+
+## Database
 - MySQL
-- XAMPP
+
+## Plugin sử dụng
 - Tutor LMS
 - WooCommerce
-- SePay Gateway
+- Elementor
+- MetForm
 - VietQR
 - WPBot AI Chatbot
+- SePay Gateway
 
 ---
 
@@ -70,7 +65,7 @@ C:\xampp\htdocs\
 http://localhost/phpmyadmin
 ```
 
-- Tạo database mới
+- Tạo database mới, import file .sql
 - Truy cập:
 ```bash
 http://localhost/Phan_mem_mo
@@ -100,18 +95,18 @@ http://localhost/Phan_mem_mo
 
 ## Hình ảnh minh họa hệ thống
 - Trang chủ
-![alt text](image.png)
+![alt text](images/home.png)
 - Danh sách khóa học
-![alt text](image-1.png)
+![alt text](images/courseslist.png)
 - Dashboard Instructor
-![alt text](image-2.png)
+![alt text](images/dashboard.png)
 - Dashboard Student
-![alt text](image-3.png)
-- Cart & Checkout
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](images/dashboarsv.png)
+- Cart & Thanh toán
+![alt text](images/cart.png)
+![alt text](images/tt.png)
 - AI Chatbot
-![alt text](image-6.png)
+![alt text](ai/home.png)
 
 ---
 
@@ -122,4 +117,6 @@ http://localhost/Phan_mem_mo
 ---
 
 ## Link Deploy Online
-```bash
+
+```txt
+https://phiminhthao19.id.vn/
