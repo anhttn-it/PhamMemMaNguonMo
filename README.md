@@ -92,21 +92,27 @@ http://localhost/Phan_mem_mo
 - Password: 123456
 
 ---
-
 ## Hình ảnh minh họa hệ thống
-- Trang chủ
-![alt text](images/home.png)
-- Danh sách khóa học
-![alt text](images/courseslist.png)
-- Dashboard Instructor
-![alt text](images/dashboard.png)
-- Dashboard Student
-![alt text](images/dashboarsv.png)
-- Cart & Thanh toán
-![alt text](images/cart.png)
-![alt text](images/tt.png)
-- AI Chatbot
-![alt text](images/ai.png)
+
+### Trang chủ
+![Trang chủ](images/home.png)
+
+### Danh sách khóa học
+![Danh sách khóa học](images/courseslist.png)
+
+### Dashboard Instructor
+![Dashboard Instructor](images/dashboard.png)
+
+### Dashboard Student
+![Dashboard Student](images/dashboarsv.png)
+
+### Cart & Thanh toán
+![Cart](images/cart.png)
+
+![Thanh toán](images/tt.png)
+
+### AI Chatbot
+![AI Chatbot](images/chatbot.png)
 
 ---
 
