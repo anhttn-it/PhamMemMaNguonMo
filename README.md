@@ -117,7 +117,8 @@ http://localhost/Phan_mem_mo
 ---
 
 ## Link Video Demo
-```bash
+```txt
+https://drive.google.com/drive/folders/1PvAAG3UsrmcyJEh-5TXqOV0fkMlfoAUp?usp=sharing
 ```
 
 ---
