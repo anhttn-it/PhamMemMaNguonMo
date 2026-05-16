@@ -106,7 +106,7 @@ http://localhost/Phan_mem_mo
 ![alt text](images/cart.png)
 ![alt text](images/tt.png)
 - AI Chatbot
-![alt text](ai/home.png)
+![alt text](images/ai.png)
 
 ---
 
