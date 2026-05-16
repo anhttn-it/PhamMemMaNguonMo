@@ -116,9 +116,16 @@ http://localhost/Phan_mem_mo
 
 ---
 
-## Link Video Demo
+## Link Video Demo Google Drive
 ```txt
 https://drive.google.com/drive/folders/1PvAAG3UsrmcyJEh-5TXqOV0fkMlfoAUp?usp=sharing
+```
+
+---
+
+## Link Video Demo Youtube
+```txt
+https://youtu.be/iD5QARI1UQo
 ```
 
 ---
